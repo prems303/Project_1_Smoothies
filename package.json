@@ -1,0 +1,19 @@
+{
+  "name": "bliss",
+  "version": "0.1.0",
+  "description": "app gives smoothie suggestions based on choice",
+  "main": "server.js",
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rene-justin-dado/Project_1_Smoothies.git"
+  },
+  "author": "Tim_Siobhan_Justin_Julia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rene-justin-dado/Project_1_Smoothies/issues"
+  },
+  "homepage": "https://github.com/rene-justin-dado/Project_1_Smoothies#readme"
+}
