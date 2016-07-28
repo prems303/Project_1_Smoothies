@@ -1,0 +1,26 @@
+{
+  "smoothies": [
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":},
+    {"name": "", "picPath": "", "ingredients": "", "blurb": "", "recipe": "", "count": , "rating":}
+  ],
+  "vibes": [
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": },
+    {"name": "", "id": }
+  ]
+}
