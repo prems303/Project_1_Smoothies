@@ -1,0 +1,56 @@
+#landing-page {
+  width:30%;
+  display: flex;
+  margin: auto;
+  background-image: url("images/bliss_header.jpg");
+ /* Set the background image to no repeat */
+  background-repeat; no-repeat;
+  background-position: 80%;
+  background-attachment; scroll;
+ /* Scale the background image to be as large as possible */
+  content: center;*/
+}
+
+  .circular_button{
+    width:150px;
+    height: 150px;
+    border-radius: 150px;
+    -webkit-border-radius: 125px;
+    -moz-border-radius: 125px;
+    border-radius: 125px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    }
+body {
+  color: black;
+  font-family: helvetica;
+}
+h1 {
+  font-size: 3em;
+}
+#content {
+  width: 500px;
+  margin: 200px auto;
+  text-align: center;
+}
+.choice {
+  position: relative;
+  float: left;
+  max-width: 200px;
+
+}
+.row {
+  max-height: 300px;
+
+  display: flex;
+  justify-content: space-around;
+}
+.feelingImage {
+  width: 135px;
+}
+#background-image{
+
+
+}
